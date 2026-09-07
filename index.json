@@ -1,13 +1,16 @@
 {
-  "built": "2026-09-07T06:17:37Z",
-  "rows": 8660,
+  "built": "2026-09-07T20:10:35Z",
+  "rows": 8629,
   "gate": 0.64,
   "style": "counted",
   "scorer": "peer-standing",
   "scorer_decision": "0052",
   "written": 2220,
+  "suppressed": 1,
+  "removed_at_source": 1,
+  "removal_detection": "measured",
   "not_scorable": {
-    "drivebc": 1062
+    "drivebc": 1032
   },
   "not_scorable_reason": {
     "drivebc": "no cached gazetteer for Canada"
@@ -19,5 +22,5 @@
     "drivebc",
     "tfl"
   ],
-  "note": "Summary only. The full catalogue is catalogue.json in this repository. Generated data, no source code — see decision 0057."
+  "note": "Summary only. The full catalogue is catalogue.json in this repository. Generated data, no source code — decision 0057."
 }

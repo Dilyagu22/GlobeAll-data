@@ -1,0 +1,23 @@
+{
+  "built": "2026-09-07T06:17:37Z",
+  "rows": 8660,
+  "gate": 0.64,
+  "style": "counted",
+  "scorer": "peer-standing",
+  "scorer_decision": "0052",
+  "written": 2220,
+  "not_scorable": {
+    "drivebc": 1062
+  },
+  "not_scorable_reason": {
+    "drivebc": "no cached gazetteer for Canada"
+  },
+  "sources": [
+    "austin",
+    "caltrans",
+    "digitraffic",
+    "drivebc",
+    "tfl"
+  ],
+  "note": "Summary only. The full catalogue is catalogue.json in this repository. Generated data, no source code — see decision 0057."
+}

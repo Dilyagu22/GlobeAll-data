@@ -1,13 +1,13 @@
 {
-  "built": "2026-09-26T09:39:33Z",
+  "built": "2026-09-27T10:19:25Z",
   "rows": 8682,
   "gate": 0.64,
   "style": "counted",
   "scorer": "peer-standing",
   "scorer_decision": "0052",
-  "written": 2233,
+  "written": 2236,
   "suppressed": 1,
-  "removed_at_source": 10,
+  "removed_at_source": 8,
   "removal_detection": "measured",
   "not_scorable": {
     "drivebc": 1036

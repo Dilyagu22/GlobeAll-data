@@ -1,11 +1,11 @@
 {
-  "built": "2026-09-29T11:00:07Z",
+  "built": "2026-09-30T10:48:02Z",
   "rows": 8683,
   "gate": 0.64,
   "style": "counted",
   "scorer": "peer-standing",
   "scorer_decision": "0052",
-  "written": 2236,
+  "written": 2238,
   "suppressed": 1,
   "removed_at_source": 9,
   "removal_detection": "measured",

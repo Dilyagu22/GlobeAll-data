@@ -2,8 +2,8 @@
 
 Generated data only. No source code lives here.
 
-- **Built** 2026-10-04T10:53:50Z
-- **Cameras** 8,684 from 5 public agencies
+- **Built** 2026-10-06T11:34:55Z
+- **Cameras** 8,685 from 5 public agencies
 - **With a written description** 2,235 (26%)
 - **Not yet scorable** 1,036 — no cached gazetteer for Canada
 

@@ -2,10 +2,10 @@
 
 Generated data only. No source code lives here.
 
-- **Built** 2026-10-08T11:40:35Z
-- **Cameras** 8,685 from 5 public agencies
-- **With a written description** 2,235 (26%)
-- **Not yet scorable** 1,036 — no cached gazetteer for Canada
+- **Built** 2026-10-09T11:38:01Z
+- **Cameras** 8,687 from 5 public agencies
+- **With a written description** 2,233 (26%)
+- **Not yet scorable** 1,037 — no cached gazetteer for Canada
 
 ## Files
 

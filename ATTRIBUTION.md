@@ -1,11 +1,11 @@
 # Attribution
 
-Built 2026-10-23T09:38:56Z from 8,705 cameras.
+Built 2026-10-24T09:10:57Z from 8,708 cameras.
 
 | source | rows | attribution | permission basis | commercial | terms |
 |---|---|---|---|---|---|
 | austin | 887 | City of Austin, Texas - data.austintexas.gov | public-domain | yes | https://data.austintexas.gov/Transportation-and-Mobility/Traffic-Cameras/b4k4-adkb |
-| caltrans | 3,604 | Caltrans | public-domain | yes | https://cwwp2.dot.ca.gov/documentation/cctv/cctv.htm |
+| caltrans | 3,607 | Caltrans | public-domain | yes | https://cwwp2.dot.ca.gov/documentation/cctv/cctv.htm |
 | digitraffic | 2,287 | Source: Fintraffic / digitraffic.fi, license CC 4.0 BY | named-open-licence | yes | https://www.digitraffic.fi/en/terms-of-service/ |
 | drivebc | 1,037 | DriveBC.ca — Contains information licensed under the Open Government Licence – British Columbia. | named-open-licence | yes | https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc |
 | tfl | 890 | Powered by TfL Open Data. Contains OS data © Crown copyright and database rights 2016 and Geomni UK Map data © and database rights 2019 | named-open-licence | yes | https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service |
